@@ -22,5 +22,4 @@ Demo de un videojuego de plataforma como parte del Curso de Programación de Vid
 <a href="https://imgur.com/VzxzN0L"><img src="https://i.imgur.com/VzxzN0L.gif" title="source: imgur.com" /></a>
 
 #### Cambio de escena - Segundo nivel
-
 <a href="https://imgur.com/mvJf1Sj"><img src="https://i.imgur.com/mvJf1Sj.gif" title="source: imgur.com" /></a>
